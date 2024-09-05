@@ -1,6 +1,6 @@
 # Android device tree for ONYX NoteAir2 (BOOX)
-[!WARNING]
->Some Files Missing Due To Large Size
+> [!CAUTION]
+> Some Files Missing Due To Large Size
 
 ```
 #
